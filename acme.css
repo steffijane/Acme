@@ -1,0 +1,73 @@
+div.my-black{
+	text-decoration: underline;
+}
+
+	.my-black{
+		color:grey;
+		text-align: center;
+	}
+
+
+
+.anvil{display:block;
+    	height: 400px;
+    	width:800px;
+    	margin-left:auto;
+    	margin-right:auto;
+    	clear: both;
+    	 }
+
+    
+
+	li a {
+    display: block;
+    color: #000;
+    padding: 10px 0 10px 16px;
+    text-decoration: none;
+}
+
+   	ul{
+   		float: left;
+         display: block;
+         background-color: none;
+         list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 3%;
+    width: 100%;
+    
+   	}
+
+   	ul li {
+   		display: inline;
+   		float:left;
+   		color:grey;
+   		font-size: 100%;
+   	}
+
+   	ul li a{
+   		color: grey;
+   	}
+h1{
+	text-align: center;
+}
+
+h3{ text-align: left;
+
+}
+
+h4{ text-align: left;}
+.newspaper {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+}
+
+
+
+.content{
+	float:left;
+	width: 50%;
+	color: grey;
+
+}
